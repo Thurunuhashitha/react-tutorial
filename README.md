@@ -18,3 +18,11 @@ we can navigate using link (<Link to="/register" >) and function (<Box onClick={
 ## Create components for using where we want like function
 componenets create with pass paramiters ({})
 if you want style component use claseName from component too and css like that ".button.button"
+
+
+
+## install axios for connect with api (get,post,delet) this is like fech
+npm install axios
+
+## useState 
+meeken ekapaara variyable eke in ekai out ekai ekapara karanna puluwan

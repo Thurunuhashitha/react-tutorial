@@ -3,8 +3,7 @@ import Button from '../../components/button/button'
 import './style.css'
 import Input from '../../components/input/input'
 import Box from '@mui/material/Box'
-import {useNavigate } from 'react-router-dom';
-import Alert from '@mui/material/Alert'
+import {useNavigate } from 'react-router-dom'; 
 
 export default function Login() {
   
@@ -12,7 +11,7 @@ export default function Login() {
     const navigate = useNavigate()
 
     function navi() {
-        navigate('/login') 
+        navigate('/home') 
     }
 
   return (
