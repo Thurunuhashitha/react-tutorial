@@ -13,6 +13,8 @@ npm install @mui/icons-material
 ## install React-Router-Dom for navigation
 npm i react-router-dom
 
+we can navigate using link (<Link to="/register" >) and function (<Box onClick={navi}> )
+
 ## Create components for using where we want like function
 componenets create with pass paramiters ({})
 if you want style component use claseName from component too and css like that ".button.button"
