@@ -12,3 +12,6 @@ npm install @mui/icons-material
 
 ## install React-Router-Dom for navigation
 npm i react-router-dom
+
+## Create components for using where we want like function
+componenets create with pass paramiters ({})

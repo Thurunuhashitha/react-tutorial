@@ -14,7 +14,7 @@ const bull = (
   </Box>
 );
 
-export default function BasicCard() {
+export default function UserCard() {
   return (
     <Card sx={{ minWidth: 275 }}>
       <CardContent>
