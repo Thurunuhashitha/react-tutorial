@@ -15,3 +15,4 @@ npm i react-router-dom
 
 ## Create components for using where we want like function
 componenets create with pass paramiters ({})
+if you want style component use claseName from component too and css like that ".button.button"
