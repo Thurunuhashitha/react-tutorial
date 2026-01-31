@@ -88,7 +88,7 @@ export default function Home() {
       <Box sx={{ marginTop: 3 }}>
         {companies.length > 0 ? (
           <Box>
-            <h2>Companies List:</h2>
+            <h2>Companies List:</h2> <br />
             
             {/* Step 9: Loop through all companies */}
             {companies.map((company, companyIndex) => (

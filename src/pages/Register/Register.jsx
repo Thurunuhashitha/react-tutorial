@@ -36,7 +36,7 @@ export default function Login() {
         />
         <Box onClick={navi}> 
           <Button className='button'
-            text="Cleck me to Login" 
+            text="Cleck me to Home" 
           /> 
         </Box>
       </Box>
